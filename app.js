@@ -16,7 +16,7 @@ function getJokes(e) {
              return joke.innerHTML = output
                 };
             } else {
-                output +=  '<h2>Chuck Norris is sick</h2>'
+                output +=  '<h2>Chuck Norris is sick to tell you a joke</h2>'
             }
             
             
